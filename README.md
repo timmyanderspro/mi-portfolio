@@ -9,7 +9,7 @@ Este es un portfolio creado con HTML, CSS y Javascript usando metodología BEM y
 * [Porfolio web](https://timmyanderspro.com/)
 
 ## Ver ejemplo en vivo 
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+- [https://timmyanderspro.github.io/mi-portfolio/](https://timmyanderspro.github.io/mi-portfolio/)
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
